@@ -1,7 +1,0 @@
-.godot/
-.tools/
-build/
-test-results/
-*.tmp
-__pycache__/
-node_modules/
